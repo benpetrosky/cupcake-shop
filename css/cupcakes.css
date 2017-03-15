@@ -1,0 +1,13 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-weight: bold;
+  font-style: oblique;
+  color: gold;
+  font-size: 40px;
+  font-family: fantasy;
+  text-decoration: underline;
+}
